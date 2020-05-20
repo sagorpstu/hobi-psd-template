@@ -24,7 +24,7 @@ $(".test-active").owlCarousel({
   loop: true,
   margin: 10,
   smartSpeed: 1000,
-  autoplay: false,
+  autoplay: true,
   responsive: {
     0: {
       items: 1,

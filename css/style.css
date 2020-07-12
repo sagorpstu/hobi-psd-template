@@ -464,6 +464,18 @@ p {
 }
 
 /* Navigation */
+
+.fixed_nav .main_nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 999;
+  background-color: #ffffff;
+  border-bottom: 2px solid #ff3d4f;
+}
+
+
 .navbar {
     padding: 20px 0px;
 }
